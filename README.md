@@ -6,7 +6,8 @@ If files can't be read, the program will try to compare MD5 hashes.
 ## Run
 GUI version:
 - on Linux-based system run `diffFiles.desktop` file
-- on Windows run `diffFiles.bat` file
+- on Windows run `diffFiles.bat` file.
+
 Console version:
 - `python diffFiles.py "path/to/folder/1" "path/to/folder/2"`
 
