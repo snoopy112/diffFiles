@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=bash -c 'python3 "$(dirname "$1")"/diffFiles_gui.py' dummy %k
+Name=diffFiles
+#Name[en_EN]=diffFiles
+Terminal=false
+Type=Application

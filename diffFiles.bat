@@ -1,0 +1,1 @@
+start pythonw diffFiles_gui.py
