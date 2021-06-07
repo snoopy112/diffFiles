@@ -3,6 +3,10 @@
 Simple program to recursive compare 2 directories and find differences between files.
 If files can't be read, the program will try to compare MD5 hashes.
 
+## Dependencies
+- python >= 3.6
+- PyQt5 (for GUI version)
+
 ## Run
 GUI version:
 - on Linux-based system run `diffFiles.desktop` file
